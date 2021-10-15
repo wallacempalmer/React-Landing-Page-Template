@@ -6,16 +6,14 @@
   "About": {
     "paragraph": "",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Exclusive supply",
+      "Big banana energy",
+      "Comunnity driven"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Your mum",
+      "A center for Alpha Apes",
+      "Based af ape art"
     ]
   },
   "Gallery": [
@@ -146,17 +144,17 @@
       "text": "We created Go Ape to build the strongest community on the blockchain. Anyone who owns an Ape has to promise, that no matter what... YOU APE INTO EVERYTHING YOUR FELLOW APES APE INTO!!!"
     },
     {
-      "icon": "fa fa-comment-dollar",
+      "icon": "fa fa-money",
       "title": "What is our mint price? ",
       "text": "Even though we are offering a limited 800 apes we are not doing this for the money. We want our Apes to be here for the right purpose, to build an outsandting community which is why our mint price is 1 sol."
     },
     {
-      "icon": "fa fa-group",
+      "icon": "fa fa-rocket",
       "title": "wen launch",
       "text": "We are targetting a launch before OCt 20th. Please stay up to date with our discord announcements to make sure you do not miss out."
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-group",
       "title": "What’s next",
       "text": "That will be up to our community, we want them to feel included in what our next step is. Of course we are not aiming to be a nft game, this is just a fun deflationary art that we have worked hard to create. We are hoping to build a great community of solana apes who love to ape."
     }

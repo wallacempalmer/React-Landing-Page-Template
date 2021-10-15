@@ -40,6 +40,16 @@ export const Navigation = (props) => {
                 About
               </a>
             </li>
+            <li>
+              <a href='https://t.co/m3lYKG38Iu?amp=1' target="_blank" className='page-scroll'>
+                Discord 
+              </a>
+            </li>
+            <li>
+              <a href='https://twitter.com/Go_apess' target="_blank" className='page-scroll'>
+                Twitter
+              </a>
+            </li>
             {/* <li>
               <a href='#services' className='page-scroll'>
                 Services
