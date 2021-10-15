@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "Go Ape Go",
-    "paragraph": "Welcome to GoApe NFT's on the Solana Blockhain. Dedicated to building the best community of 800 apes."
+    "title": "Ape Go Ape",
+    "paragraph": "Welcome to GoApe NFT's on the Solana Blockhain. 800 apes doing what apes do! Roaming around the Solana ecosystem. Fighting to be the next King of NFT'S"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -141,24 +141,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-question-circle",
+      "title": "Who are we?",
+      "text": "We created Go Ape to build the strongest community on the blockchain. Anyone who owns an Ape has to promise, that no matter what... YOU APE INTO EVERYTHING YOUR FELLOW APES APE INTO!!!"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-comment-dollar",
+      "title": "What is our mint price? ",
+      "text": "Even though we are offering a limited 800 apes we are not doing this for the money. We want our Apes to be here for the right purpose, to build an outsandting community which is why our mint price is 1 sol."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "wen launch",
+      "text": "We are targetting a launch before OCt 20th. Please stay up to date with our discord announcements to make sure you do not miss out."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "What’s next",
+      "text": "That will be up to our community, we want them to feel included in what our next step is. Of course we are not aiming to be a nft game, this is just a fun deflationary art that we have worked hard to create. We are hoping to build a great community of solana apes who love to ape."
     }
   ]
 }
